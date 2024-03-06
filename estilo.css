@@ -13,6 +13,7 @@
         background-color: var(--cor-de-fundo);
         color: var(--roxo);
         font-family: 'Chakra Petch', sans-serif;
+        
       }
 
       .conteudo-principal{
@@ -23,5 +24,12 @@
             max-width: 1200px;
             width: 100%;
             margin: 0;
+
+      }
+
+      .titulo-principal{
+        text-align: left;
+        width: 100%;
+        font-size: 32px;
 
       }

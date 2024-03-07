@@ -2,7 +2,7 @@
 
 :root{
         --cor-de-fundo: #1e1d1d;
-        --verde: #6FFF57;
+        --roxao: #3d1c5b;
         --roxo: #9516c0;
         --botao-ativo: #3A375E;
         --botao-inativo: rgba(58, 55, 94, 0.5);
@@ -35,7 +35,7 @@
       }
 
       .titulo-principal span{
-        color: var(--verde);
+        color: var(--roxao);
 
       }
 
@@ -96,5 +96,5 @@
 
 .ativo{
   background-color: var(--botao-ativo);
-  border-bottom: 4px solid var(--verde);
+  border-bottom: 4px solid var(--roxao);
   }

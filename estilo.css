@@ -42,7 +42,7 @@
       .botao{
         font-family: "Crakra Petch", sans-serif;
         background-color: var(--botao-inativo);
-        color: var(--branco);
+        color: var(--roxo);
         display: flex;
         justify-content: center;
         padding: 1em;

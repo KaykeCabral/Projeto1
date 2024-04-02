@@ -2,7 +2,7 @@
 
 :root{
         --cor-de-fundo: #1e1d1d;
-        --roxao: #3d1c5b;
+        --rosa: #a671d8;
         --roxo: #9516c0;
         --botao-ativo: #3A375E;
         --botao-inativo: rgba(58, 55, 94, 0.5);
@@ -85,5 +85,5 @@
 
 .ativo{
   background-color: var(--botao-ativo);
-  border-bottom: 4px solid var(--roxao);
+  border-bottom: 4px solid var(--rosa);
   }

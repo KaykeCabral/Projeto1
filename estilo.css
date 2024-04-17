@@ -88,3 +88,9 @@ body {
     border-radius: 0 0 40px 40px;
 }
 
+.aba-conteudo-titulo-secundario{
+    color: var(--azul);
+    text-transform: uppercase;
+
+}
+

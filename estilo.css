@@ -13,7 +13,6 @@ body {
     background-color: var(--cor-de-fundo);
     color: var(--roxo);
     font-family: 'Chakra Petch', sans-serif;
-    text-align: center;
 
 }
 
@@ -31,7 +30,7 @@ body {
     text-align: left;
     width: 100%;
     font-size: 32px;
-
+    text-align: center;
 }
 
 .titulo-principal span {

@@ -23,7 +23,8 @@ body {
     align-items: center;
     max-width: 1200px;
     width: 100%;
-
+    margin: 0%;
+    
 }
 
 .titulo-principal {
@@ -69,12 +70,6 @@ body {
 }
 
 @media screen and (min-width: 768px) {
-    .botoes {
-        display: flex;
-    }
-}
-
-@media screen and (min-width: 768px) {
   .botoes {
       display: flex;
   }
@@ -87,8 +82,6 @@ body {
       border-radius: 0 40px 0 0;
   }
 }
-
-
 
 .abas-textos{
     background-color: var(--texto-fundo);

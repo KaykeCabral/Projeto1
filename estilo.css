@@ -83,6 +83,12 @@ body {
     display: none;
 }
 
+.aba-conteudo-titulo-principal{
+    font-size: 28px;
+    align-items: center;
+
+}
+
 @media screen and (min-width: 768px) {
   .botoes {
       display: flex;

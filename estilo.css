@@ -99,6 +99,7 @@ body {
 .contador{
     justify-content: center;
     display: flex;
+    flex
 }
 
 .contador-digito{

@@ -39,8 +39,7 @@ function calculaTempo(tempoObjetivo){
     } else {
         return "Prazo Finalizado"
     }
-
-
+}
 
 function atualizaCronometro(){
     for (let i = 0; i < contadores.length; i++) {

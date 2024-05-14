@@ -106,12 +106,12 @@ body {
     padding: 0 16px;
     text-align: center;
     min-width: 100px;
+    display: flex;
 }
 
 .contador-digito-numero{
     font-size: 80px;
     margin: 0;
-    display: flex;
 }
 
 .contador-digito-texto{

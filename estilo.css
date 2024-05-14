@@ -111,6 +111,7 @@ body {
 .contador-digito-numero{
     font-size: 80px;
     margin: 0;
+    display: flex;
 }
 
 .contador-digito-texto{

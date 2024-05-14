@@ -97,7 +97,7 @@ body {
 }
 
 .contador{
-    display:flex;
+    display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
